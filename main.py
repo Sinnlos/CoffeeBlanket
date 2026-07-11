@@ -1,1 +1,1 @@
-print(f"Hello Coffee&Blanket")
+print(f"CoffeeBlanket is alive ☕")
